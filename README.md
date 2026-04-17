@@ -61,3 +61,4 @@ restaurant owner from the Menu dashboard.
 npm run build
 npm start
 ```
+# ar_menu_nextjs
